@@ -1,2 +1,3 @@
 WXIT;NUIST.NANJING
 FOCUSCHINA GPL.
+Creating a new branch is quick.
